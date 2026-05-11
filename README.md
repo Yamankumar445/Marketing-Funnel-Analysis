@@ -64,8 +64,5 @@ This is what data analytics looks like in a real business context — not just c
 
 Yaman Kumar
 Data Analyst | Building hands-on projects in SQL, Power BI & Excel
-📂 GitHub Portfolio • 💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/yaman-kumar-7a4b67260/?skipRedirect=true
 
-If you're working in marketing analytics or hiring for a data analyst role, I'd love to connect.
-
-#PowerBI #DataAnalytics #MarketingAnalytics #DAX #DataVisualization #BusinessIntelligence #Analytics #DataAnalyst #OpenToWork #PortfolioProject

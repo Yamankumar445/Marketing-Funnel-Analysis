@@ -1,6 +1,6 @@
 Most marketing teams are spending lots of money on the wrong channels — and their own data is proving it.
 
-They're spending millions across 5+ channels — but can't answer:
+They're spending millions across 5+ channels — but can't answer:    
 → Where exactly are leads dropping off?    
 → Which channel actually converts to revenue?     
 → Is the ad spend generating real return?    

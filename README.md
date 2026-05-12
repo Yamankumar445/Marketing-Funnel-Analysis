@@ -1,9 +1,9 @@
 Most marketing teams are spending lots of money on the wrong channels — and their own data is proving it.
 
 They're spending millions across 5+ channels — but can't answer:
-→ Where exactly are leads dropping off?
-→ Which channel actually converts to revenue?
-→ Is the ad spend generating real return?
+→ Where exactly are leads dropping off?    
+→ Which channel actually converts to revenue?     
+→ Is the ad spend generating real return?    
 
 I built a Marketing Funnel Performance Dashboard in Power BI to solve exactly that.
 
@@ -12,19 +12,19 @@ I built a Marketing Funnel Performance Dashboard in Power BI to solve exactly th
 📌 THE BUSINESS PROBLEM
 
 Marketing teams track impressions, leads, and revenue in separate silos. Without a unified view, they can't:   
-• Identify where the funnel breaks (Clicks → Leads → MQLs → SQLs → Customers)
-• Compare ROAS across channels in one place
-• Make budget allocation decisions with confidence
+• Identify where the funnel breaks (Clicks → Leads → MQLs → SQLs → Customers)   
+• Compare ROAS across channels in one place   
+• Make budget allocation decisions with confidence   
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 🔧 WHAT I BUILT (End-to-End)
 
-✅ Data Cleaning — Removed duplicates, handled nulls, standardized channel & campaign names across 3 raw datasets (Campaign, Channel, Meta)
+✅ Data Cleaning — Removed duplicates, handled nulls, standardized channel & campaign names across 3 raw datasets (Campaign, Channel, Meta)   
 
-✅ Data Modeling — Built relationships across tables; created a clean star schema for performance
+✅ Data Modeling — Built relationships across tables; created a clean star schema for performance   
 
-✅ DAX Measures — Wrote custom measures for:
+✅ DAX Measures — Wrote custom measures for:  
    • Conversion Rate = Customers / Impressions
    • ROAS = Total Revenue / Ad Spend
    • Stage-wise Drop % = (Stage N − Stage N+1) / Stage N

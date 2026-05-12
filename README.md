@@ -11,7 +11,7 @@ I built a Marketing Funnel Performance Dashboard in Power BI to solve exactly th
 
 📌 THE BUSINESS PROBLEM
 
-Marketing teams track impressions, leads, and revenue in separate silos. Without a unified view, they can't:
+Marketing teams track impressions, leads, and revenue in separate silos. Without a unified view, they can't:   
 • Identify where the funnel breaks (Clicks → Leads → MQLs → SQLs → Customers)
 • Compare ROAS across channels in one place
 • Make budget allocation decisions with confidence

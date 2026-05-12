@@ -39,24 +39,24 @@ Marketing teams track impressions, leads, and revenue in separate silos. Without
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-📊 KEY INSIGHTS FROM THE DATA
-
-🔹 389M impressions → only 35K customers (2.68% overall conversion)
-🔹 Email Marketing has the highest ROAS at 12.1x — yet lowest ad spend
-🔹 The biggest funnel drop happens at Impressions → Clicks (97% drop)
-🔹 Revenue peaks in Oct–Nov, suggesting seasonality to plan campaigns around
-🔹 YouTube Ads convert at just 0.12% — a clear budget reallocation opportunity
+📊 KEY INSIGHTS FROM THE DATA       
+   
+🔹 389M impressions → only 35K customers (2.68% overall conversion)    
+🔹 Email Marketing has the highest ROAS at 12.1x — yet lowest ad spend     
+🔹 The biggest funnel drop happens at Impressions → Clicks (97% drop)     
+🔹 Revenue peaks in Oct–Nov, suggesting seasonality to plan campaigns around    
+🔹 YouTube Ads convert at just 0.12% — a clear budget reallocation opportunity    
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-💡 THE IMPACT
+💡 THE IMPACT   
 
-A dashboard like this gives a marketing team the ability to:
-→ Cut wasted spend on underperforming channels
-→ Double down on Email Marketing (12.1x ROAS)
-→ Fix the top-of-funnel drop before scaling budgets
+A dashboard like this gives a marketing team the ability to:    
+→ Cut wasted spend on underperforming channels   
+→ Double down on Email Marketing (12.1x ROAS)    
+→ Fix the top-of-funnel drop before scaling budgets    
 
-This is what data analytics looks like in a real business context — not just charts, but decisions.
+This is what data analytics looks like in a real business context — not just charts, but decisions.    
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
